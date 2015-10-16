@@ -2,9 +2,13 @@
 
 ![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png)
 
+```sh
+bower install compass-sass-mixins
+```
+
 ```sass
 
-@import "compass"
+@import "bower_components/compass-sass-mixins/lib/compass"
 
 /*
 use your sass mixins here
