@@ -1,6 +1,6 @@
 # Compass SASS Stylesheets (SASS files)
 
-![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png =813x350)
+![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png)
 
 ```sass
 
