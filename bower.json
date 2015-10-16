@@ -5,7 +5,6 @@
     "Andrey Stehno <a.stegno@gmail.com>"
   ],
   "description": "Compass sass stylesheets",
-  "main": "lib/_compass.sass",
   "keywords": [
     "compass",
     "mixins",
