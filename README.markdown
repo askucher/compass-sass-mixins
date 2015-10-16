@@ -1,6 +1,16 @@
 # Compass SASS Stylesheets (SASS files)
 
-![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png)
+![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png =813x350)
+
+```sass
+
+@import "compass"
+
+/*
+use your sass mixins here
+*/
+
+```
 
 This is a repository to pull SASS style sheets on Bower, and enjoy the compass mixins by using libsass for faster compilation. This project makes minimal modifications to the original stylesheets from the [original repository](https://github.com/Compass/compass/tree/stable/core/stylesheets), intented to improve libsass compatibility and not change output.
 
@@ -8,7 +18,7 @@ This is a repository to pull SASS style sheets on Bower, and enjoy the compass m
 
 This project includes reasonably similar implementations of some of the Ruby functions that Compass provides as Sass extensions. These are used in some Compass mixins, such as `@include background()`.
 
-To make those functions available to your compass mixins, you'll want to either `@import "compass";` or `@import "compass/functions"'` before the specific compass scss files you import.
+To make those functions available to your compass mixins, you'll want to either `@import "compass";` or `@import "compass/functions"'` before the specific compass sass files you import.
 
 
 <article>
