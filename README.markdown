@@ -1,6 +1,6 @@
 # Compass SASS Stylesheets (SASS files)
 
-![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png)
+![Compass sass](http://zpalexander.com/wp-content/uploads/2015/04/sass-compass.jpg)
 
 ```sh
 bower install compass-sass-mixins
