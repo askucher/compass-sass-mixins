@@ -2,10 +2,12 @@
 
 ![Compass sass](http://zpalexander.com/wp-content/uploads/2015/04/sass-compass.jpg)
 
+Run in shell
 ```sh
 bower install compass-sass-mixins
 ```
 
+Open your file.sass and import the library
 ```sass
 
 @import "bower_components/compass-sass-mixins/lib/compass"
