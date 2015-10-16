@@ -10,7 +10,7 @@ bower install compass-sass-mixins
 Open your file.sass and import the library
 ```sass
 
-@import "bower_components/compass-sass-mixins/compass"
+@import "bower_components/compass-sass-mixins/lib/compass"
 
 /*
 use your sass mixins here
