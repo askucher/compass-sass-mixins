@@ -1,5 +1,7 @@
 # Compass SASS Stylesheets (SASS files)
 
+![Compass sass](http://www.creative-seo.ru/blog/wp-content/uploads/2015/09/sass_compass.png)
+
 This is a repository to pull SASS style sheets on Bower, and enjoy the compass mixins by using libsass for faster compilation. This project makes minimal modifications to the original stylesheets from the [original repository](https://github.com/Compass/compass/tree/stable/core/stylesheets), intented to improve libsass compatibility and not change output.
 
 ## Compass Ruby Functions
