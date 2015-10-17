@@ -1,16 +1,20 @@
 # Compass SASS Stylesheets (SASS files)
 
+
+
 ![Compass sass](http://zpalexander.com/wp-content/uploads/2015/04/sass-compass.jpg)
 
 Run in shell
 ```sh
 bower install compass-sass-mixins
+#npm install compass-sass-mixins
 ```
 
 Open your file.sass and import the library
 ```sass
 
 @import "bower_components/compass-sass-mixins/lib/compass"
+//@import "node_modules/compass-sass-mixins/lib/compass"
 
 /*
 use your sass mixins here
@@ -333,3 +337,6 @@ use your sass mixins here
 *   [with-each-prefix($capability, $threshold, $capability-options)](http://compass-style.org/reference/compass/support/#mixin-with-each-prefix)
 *   [with-prefix($prefix)](http://compass-style.org/reference/compass/support/#mixin-with-prefix)
 *   [word-break($value)](http://compass-style.org/reference/compass/css3/hyphenation/#mixin-word-break)
+
+
+Keywords: compass libsass, import compass

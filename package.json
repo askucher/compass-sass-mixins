@@ -1,22 +1,19 @@
 {
   "name": "compass-sass-mixins",
   "version": "0.12.7",
-  "author": {
-    "name": "Andrey Stegno",
-    "email": "a.stegno@gmail.com",
-    "url": "https://github.com/askucher"
-  },
+  "author": "Andrey Stegno <a.stegno@gmail.com> (https://github.com/askucher)",
   "description": "Compass sass stylesheets",
   "repository": {
     "type": "git",
     "url": "git://github.com/askucher/compass-sass-mixins"
   },
-  "main": "lib/_compass.scss",
+  "main": "lib/*",
   "keywords": [
     "compass",
     "mixins",
     "sass",
-    "css3"
+    "css3",
+    "compass libsass"
   ],
   "scripts": {
     "test": "./node_modules/jasmine-node/bin/jasmine-node test"
@@ -33,5 +30,9 @@
     "chalk": "^0.5.1",
     "jasmine-node": "^1.14.5",
     "node-sass": "^2.0.0-beta"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/askucher/compass-sass-mixins/issues"
+  },
+  "homepage": "https://github.com/askucher/compass-sass-mixins"
 }
