@@ -1,4 +1,4 @@
-# Compass for ![libsass](http://sass-lang.com/libsass)
+# Compass for [libsass](http://sass-lang.com/libsass)
 
 
 
