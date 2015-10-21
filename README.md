@@ -1,4 +1,4 @@
-# Compass SASS Stylesheets (SASS files)
+# Compass for ![libsass](http://sass-lang.com/libsass)
 
 
 
