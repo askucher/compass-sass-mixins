@@ -27,5 +27,5 @@
   margin-left: 0
   li
     padding-left: $padding
-    background: image-url($bullet-icon) no-repeat (($padding - $width) / 2) (($line-height - $height) / 2)
+    background: image-url($bullet-icon) no-repeat (math.div(($padding - $width), 2)) (math.div(($line-height - $height), 2))
     list-style-type: none
